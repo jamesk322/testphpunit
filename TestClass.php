@@ -4,6 +4,6 @@ class TestClass
 {
     public function helloWorld($string)
     {
-        return "Hello World1: " . $string;
+        return "Hello World: " . $string;
     }
 }
